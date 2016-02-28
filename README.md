@@ -13,7 +13,7 @@
 --simple layout, including scroll window for the output
 
 28/02/2016
-Jetty-websocket
+Jetty-websocket (Jetty JSR356) 
 --under the directory where pom.xml (namely the main folder of jetty-websocket), run:
     mvn jetty:run
   you may have to download maven (apache-maven-3.3.9-bin.zip if in Windows) first 
